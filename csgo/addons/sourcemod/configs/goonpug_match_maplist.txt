@@ -1,10 +1,9 @@
 de_train
 de_inferno
-de_nuke
 de_dust2
 de_mirage
 de_cache
 de_season
 de_overpass
 de_cbble
-workshop/125620805/de_mill
+
